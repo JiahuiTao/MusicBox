@@ -15,8 +15,6 @@ The project is carried out in 7 steps:
 * Build ALS Explicit Model	
 * Build ALS Implicit Model	
 
-Code with results are viewable at the links below.
-
-[[__Part I__]](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8629604074238764/1737319951745339/1974396095314527/latest.html)  [[__Part II__]](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8629604074238764/1737319951745432/1974396095314527/latest.html)
+Code with results are viewable at the links: [[__Part I__]](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8629604074238764/1737319951745339/1974396095314527/latest.html)  [[__Part II__]](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8629604074238764/1737319951745432/1974396095314527/latest.html)
 
 A detailed explaination of the project is in the presentation.pdf file.
